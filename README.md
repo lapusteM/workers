@@ -1,4 +1,4 @@
-To use this app:
+To use this app:<br />
 1.Clone the repo and run:
 ### `npm install`
 
