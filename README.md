@@ -3,7 +3,7 @@ To use this app:<br />
 ### `npm install`
 
 2.Create the build folder with a fully production ready application:
-###`npm run build`
+### `npm run build`
 
 3.We'll use https://www.netlify.com/ to deploy our app, by drag and drop the build folder generated above.<br />
 You can check an instance of this app: https://jovial-snyder-1d6308.netlify.app/
