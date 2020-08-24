@@ -1,13 +1,14 @@
-To use this app:
+To use this app:<br />
 1.Clone the repo and run:
 ### `npm install`
 
 2.Create the build folder with a fully production ready application:
-###`npm run build`
+### `npm run build`
 
 3.We'll use https://www.netlify.com/ to deploy our app, by drag and drop the build folder generated above.<br />
 You can check an instance of this app: https://jovial-snyder-1d6308.netlify.app/
 This is an optimized PWA app, that can be installed and also respond with 200 when offline.<br />
+<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
