@@ -2,6 +2,9 @@ To use this app:<br />
 1.Clone the repo and run:
 ### `npm install`
 
+
+
+
 2.Create the build folder with a fully production ready application:
 ### `npm run build`
 
